@@ -18,7 +18,7 @@ Open Config :
 
 # Developers :
 
-- `tyrant#0885`
+- `falcon#0241`
 - `DraKen#3301`
 - `normal#3301`
 
@@ -29,3 +29,8 @@ Open Config :
 # Troubleshooting :
 
 > Join https://discord.gg/spy and ping anyone from the dev team.
+
+# Replit : 
+
+> For Those Who Cant Fork A Git Into Replit.
+> https://replit.com/@DraKenCodeZ/spy-sb-v6
